@@ -1,6 +1,6 @@
-package LinkedList.Question_4;
+package LinkedList.Double_Linked_List.Question_1;
 
-public class DoubleLinkedListIterator {
+public class DoubleLinkedListTest {
     public static void main(String[] args) {
         DoubleLinkedList<Integer> list = new DoubleLinkedList<>();
 
@@ -24,6 +24,7 @@ public class DoubleLinkedListIterator {
         printList(list);
 
         DoubleLinkedList<Integer> list2 = new DoubleLinkedList<>();
+
         list2.append(50);
         list2.append(60);
         list2.append(70);
@@ -32,6 +33,7 @@ public class DoubleLinkedListIterator {
         printList(list);
 
         DoubleLinkedList<Integer> list3 = new DoubleLinkedList<>();
+
         list3.append(111);
         list3.append(222);
 
@@ -39,6 +41,7 @@ public class DoubleLinkedListIterator {
         printList(list);
 
         DoubleLinkedList<Integer> removeList = new DoubleLinkedList<>();
+
         removeList.append(99);
         removeList.append(50);
 
@@ -46,6 +49,7 @@ public class DoubleLinkedListIterator {
         printList(list);
 
         DoubleLinkedList<Integer> retainList = new DoubleLinkedList<>();
+        
         retainList.append(10);
         retainList.append(60);
         retainList.append(222);

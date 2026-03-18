@@ -1,4 +1,4 @@
-package LinkedList.Question_3;
+package LinkedList.Single_Linked_List.Question_3;
 
 public class MyList<T> {
     Node<T> head;

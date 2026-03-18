@@ -1,6 +1,6 @@
-package LinkedList.Question_1.Part_C;
+package LinkedList.Single_Linked_List.Question_2;
 
-public class Node<T>{
+public class Node<T> {
     T data;
     Node<T> next;
 

@@ -1,4 +1,4 @@
-package LinkedList.Question_1.Part_C;
+package LinkedList.Single_Linked_List.Question_1.Part_C;
 
 import java.util.Scanner;
 

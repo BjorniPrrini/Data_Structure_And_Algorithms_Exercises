@@ -1,4 +1,4 @@
-package LinkedList.Question_4;
+package LinkedList.Double_Linked_List.Question_1;
 
 public class Node<T> {
     T data;
