@@ -13,6 +13,8 @@ public class JosephusProblem {
     }
 
     public List<Integer> solution(int n, int k){
+        queue.clear();
+        
         List<Integer> list = new ArrayList<>();
 
         for(int i = 1; i <= n; i++){
